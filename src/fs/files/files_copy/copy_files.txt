@@ -1,0 +1,9 @@
+My content
+should
+be
+printed
+into
+console
+!What are you looking at?!How dare you!I am fresh and youngHello Node.js# This is a file with a wrong filename
+
+Hello from **markdown**!
